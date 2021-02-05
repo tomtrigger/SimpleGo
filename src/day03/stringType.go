@@ -47,7 +47,7 @@ func main() {
 	fmt.Println("\"Hello World\"")
 	fmt.Println("Hello\nWor\tld")
 
-	// fmt.Println('He"lloWor"ld') // more than one character in rune literal
+	fmt.Println(`He"lloWor"ld`)
 	fmt.Println("Hello'Wor'ld")
 
 }
