@@ -13,7 +13,7 @@ func main() {
 		}
 
 		if j > (i / j) {
-			fmt.Println(i, "æ˜¯ç´ æ•°")
+			fmt.Println(i, "ÊÇËØÊı")
 		}
 	}
 }
