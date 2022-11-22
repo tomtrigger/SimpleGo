@@ -17,7 +17,7 @@ func main() {
 	aa, bb, cc = 1, 2, "aa"
 	fmt.Println(aa, bb, cc)
 
-	// 如果变量未声明，可以想下面那样使用
+	// 如果变量未声明，可以像下面那样使用
 	aaa, bbb, ccc := 4, 5, "555"
 	fmt.Println(aaa, bbb, ccc)
 
