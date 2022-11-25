@@ -24,7 +24,7 @@ func main() {
 	area = LENGTH * WIDTH
 	fmt.Printf("面积为: %d", area)
 	println()
-	println(a, b, c)
+	// println(a, b, c)
 	// 常量值声明后可以不使用
 	println(a, b)
 
